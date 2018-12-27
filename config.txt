@@ -1,0 +1,6 @@
+token=NTI1NzMwNzgwOTQxNTE2ODAw.DwFnrg.U_RgDNjaSIrCImkv1eEI7704rp0
+owner=450305603991240716
+prefix= !s
+game= !s🥀help
+stayinchannel=true
+songinstatus=true 
