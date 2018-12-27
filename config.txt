@@ -1,6 +1,6 @@
-token=NTI3ODQyOTA3OTM2MzkxMTgx.DwZn-g.Dkej27cVi9ExB1p7PqVklMNBx3Q
 owner=514041065041297421
 prefix= 1
 game= Type 1 help
 stayinchannel=true
 songinstatus=true 
+token=NTI3ODQyOTA3OTM2MzkxMTgx.DwZn-g.Dkej27cVi9ExB1p7PqVklMNBx3Q
