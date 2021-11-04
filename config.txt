@@ -1,6 +1,6 @@
-owner=349906494822547471
-prefix= Fl
-game= Type Fl help
+owner=702376681394143302
+prefix= A
+game= Type A help
 stayinchannel=true
 songinstatus=true 
-token=NTI3ODQyOTA3OTM2MzkxMTgx.DwZn-g.Dkej27cVi9ExB1p7PqVklMNBx3Q
+token=OTA1NjI4NjE2NzUzMzA3Njc5.YYM2YA.iYvhP8uAzsAKxtCsQHaMPUQHYc0
